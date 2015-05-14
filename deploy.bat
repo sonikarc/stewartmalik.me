@@ -1,0 +1,1 @@
+scp -r _site/* deploy@stewartmalik.me:/home/deploy/stewartmalik.me/public
